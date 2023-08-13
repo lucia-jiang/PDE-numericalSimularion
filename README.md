@@ -16,9 +16,17 @@ The project focuses on numerically simulating specific instances of 1D wave equa
 - Implemented in Python, with a primary focus on utilizing the matplotlib library for visualization.
 
 ## Results
+<p vertical-align="middle">
+<img width=45% alt="image" src="https://github.com/lucia-jiang/PDE-numericalSimulation/assets/104275311/813c9b51-3884-4598-9cd2-3132c3a7d871">
+
+<img src="https://github.com/lucia-jiang/PDE-numericalSimularion/assets/104275311/afffebaf-be95-498b-b382-cb64940d46cd" width=50%/>
+</p>
+
 <p align="center">
-<img src="https://github.com/lucia-jiang/PDE-numericalSimularion/assets/104275311/3db26acf-8432-48d5-9799-950c8c8dd026" width="425"/> 
-<img src="https://github.com/lucia-jiang/PDE-numericalSimularion/assets/104275311/afffebaf-be95-498b-b382-cb64940d46cd" width="425"/>
+<img width=45% alt="image" src="https://github.com/lucia-jiang/PDE-numericalSimulation/assets/104275311/1c55c589-a19f-48c8-acbf-b6cfb69ea9d6">
+
+
+<img src="https://github.com/lucia-jiang/PDE-numericalSimularion/assets/104275311/3db26acf-8432-48d5-9799-950c8c8dd026" width=45%/> 
 </p>
 
 
